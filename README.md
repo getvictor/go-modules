@@ -1,5 +1,6 @@
 Example of a project with multiple Go modules.
-Full article coming soon to https://victoronsoftware.com
+
+Full article: [What are Go modules and packages?](https://victoronsoftware.com/posts/go-modules-and-packages/)
 
 Sample project structure for a Go project with multiple packages/modules.
 
